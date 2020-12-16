@@ -65,6 +65,10 @@ body {
   transition: 0.4s ease;
 }
 
+.circle.active {
+  border-color: #3498db;
+}
+
 .circle-color {
   border-color: #3498db;
 }
